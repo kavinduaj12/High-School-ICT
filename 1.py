@@ -1,7 +1,7 @@
 from turtle import *
 
 
-# Question
+# Output 1
 
 color("gray")
 pensize(5)
@@ -14,7 +14,8 @@ for i in range(12):
 color("purple")
 end_fill()
 
-# Answer
+
+# Output 2
 
 color("blue")
 pensize(5)
